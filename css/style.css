@@ -1,0 +1,135 @@
+        /* one section */
+        
+        #party {
+            background-image: url(..//images/events-heavenly-header.jpg);
+            height: 100vh;
+            width: 100%;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            position: relative;
+            color: white;
+        }
+        
+        .nave-slide {
+            background-color: #414658;
+            display: inline-block;
+            position: fixed;
+            left: 0%;
+            top: 0%;
+            height: 100%;
+            z-index: 1;
+            padding-top: 60px;
+            width: 0px;
+            overflow-x: hidden;
+        }
+        
+        .nave-slide a {
+            padding: 20px 8px 20px 32px;
+            text-decoration: none;
+            display: block;
+            font-size: 25px;
+            transition: 0.5s;
+            color: #818181;
+            color: white;
+        }
+        
+        .nave-slide a:hover {
+            color: rgba(214, 46, 51, 0.4);
+            transition: .5s;
+        }
+        
+        .nave-slide .close {
+            position: absolute;
+            top: 0;
+            right: 25px;
+            font-size: 36px;
+            margin-left: 50px;
+        }
+        
+        .overlay {
+            background-color: rgba(214, 46, 51, 0.6);
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+        }
+        
+        #party h2 {
+            margin-top: 200px;
+        }
+        
+        #party h2 {
+            text-align: center;
+        }
+        
+        #party p {
+            text-align: center;
+        }
+        
+        #main {
+            cursor: pointer;
+            font-size: 30px;
+        }
+        /* end one section */
+        
+        /* #acc {
+            text-align: center;
+            width: 50%;
+            margin: 100px auto;
+        }
+        
+        .singer {
+            padding: 10px;
+            color: white;
+            cursor: pointer;
+        }
+        
+        .singer h3 {
+            background-color: rgba(214, 46, 51, 0.6);
+            padding: 10px;
+            margin: 0px;
+            font-size: 24px;
+        }
+        
+        .singer div {
+            background-color: #ccc;
+            font-size: 14px;
+            color: #333;
+            padding: 10px;
+            display: none;
+        }
+        
+        .join {
+            height: 330px;
+            position: relative;
+            background-image: url(..//images/invitation-2508607__340.jpg);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+        
+        .time {
+            border: 1px solid #fff;
+            padding: 50px;
+            color: white;
+        }
+        
+        .container {
+            padding-top: 100px;
+        }
+        
+        .head p {
+            text-align: center;
+            color: #666;
+            font-size: 16px;
+            font-weight: 300;
+        }
+        
+        .head h2 {
+            color: #444;
+            font-weight: bold;
+            margin-bottom: 20px;
+        } */
+        /*  */
+        
+      
