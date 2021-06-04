@@ -132,4 +132,12 @@
         } */
         /*  */
         
+      /*section 2*/
+      .nicePlaces img{
+          height: 200px;
+      }
+      .nicePlaces .card{
+        text-align: center;
+        border: none;
       
+    }
